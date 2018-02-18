@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Art.Book</string>
+    <string name="add_art">Add Art</string>
+    <string name="enter_a_name">enter a name</string>
+    <string name="save">SAVE</string>
+    <string name="todo">TODO</string>
+</resources>
